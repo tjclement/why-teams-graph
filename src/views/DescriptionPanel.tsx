@@ -14,27 +14,10 @@ const DescriptionPanel: FC = () => {
       }
     >
       <p>
-        This map represents a <i>network</i> of Wikipedia articles around the topic of "Data visualisation". Each{" "}
-        <i>node</i> represents an article, and each edge a{" "}
-        <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/See_also">
-          "See also" link
-        </a>
-        .
-      </p>
-      <p>
-        The seed articles were selected by hand by the{" "}
-        <a target="_blank" rel="noreferrer" href="https://medialab.sciencespo.fr/">
-          Sciences-Po médialab
-        </a>{" "}
-        team, and the network was crawled using{" "}
-        <a target="_blank" rel="noreferrer" href="https://densitydesign.github.io/strumentalia-seealsology/">
-          Seealsology
-        </a>
-        , and then cleaned and enriched manually. This makes the dataset creditable to both the médialab team and{" "}
-        <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedians">
-          Wikipedia editors
-        </a>
-        .
+        This map represents a <i>network</i> of WHY2025 teams. Each{" "}
+        <i>node</i> represents a team, and each edge a interaction between the team and the other team. The arrow shows the interaction dirrction. 
+        Interactions are considered significant interactions, so if teams need each other to operate.
+
       </p>
       <p>
         This web application has been developed by{" "}
@@ -54,14 +37,6 @@ const DescriptionPanel: FC = () => {
           on GitHub
         </a>
         .
-      </p>
-      <p>
-        Nodes sizes are related to their{" "}
-        <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Betweenness_centrality">
-          betweenness centrality
-        </a>
-        . More central nodes (ie. bigger nodes) are important crossing points in the network. Finally, You can click a
-        node to open the related Wikipedia article.
       </p>
     </Panel>
   );
