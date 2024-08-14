@@ -414,11 +414,6 @@
       "key": "Internal support",
       "color": "#00a1ff",
       "clusterLabel": "Internal support"
-    },
-    {
-      "key": "Sanitation",
-      "color": "#6c3e81",
-      "clusterLabel": "Sanitation"
     }
   ],
   "tags": [
