@@ -3,6 +3,7 @@
     {
       "key": "Accessibility",
       "label": "Accessibility",
+      "URL": "https://wiki.why2025.org/Team:Accessibility",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -12,6 +13,7 @@
     {
       "key": "Badge",
       "label": "Badge",
+      "URL": "https://wiki.why2025.org/Team:Badge",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -21,6 +23,7 @@
     {
       "key": "Bar",
       "label": "Bar",
+      "URL": "https://wiki.why2025.org/Team:Bar",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -30,6 +33,7 @@
     {
       "key": "Cohesion",
       "label": "Cohesion",
+      "URL": "https://wiki.why2025.org/Team:Cohesion",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -39,6 +43,7 @@
     {
       "key": "Content",
       "label": "Content",
+      "URL": "https://wiki.why2025.org/Team:Content",
       "cluster": "Conference",
       "x": 4,
       "y": 4,
@@ -48,6 +53,7 @@
     {
       "key": "CTF",
       "label": "CTF",
+      "URL": "https://wiki.why2025.org/Team:CFT",
       "cluster": "Conference",
       "x": 4,
       "y": 4,
@@ -66,6 +72,7 @@
     {
       "key": "Family",
       "label": "Family",
+      "URL": "https://wiki.why2025.org/Team:Family",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -75,6 +82,7 @@
     {
       "key": "Finance",
       "label": "Finance",
+      "URL": "https://wiki.why2025.org/Team:Finance",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -84,6 +92,7 @@
     {
       "key": "Fire",
       "label": "Fire",
+      "URL": "https://wiki.why2025.org/Team:Fire",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -93,6 +102,7 @@
     {
       "key": "First-AID",
       "label": "First-AID",
+      "URL": "https://wiki.why2025.org/Team:First-AID",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -102,6 +112,7 @@
     {
       "key": "Flags",
       "label": "Flags",
+      "URL": "https://wiki.why2025.org/Team:Flags",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -111,6 +122,7 @@
     {
       "key": "Foodcourt",
       "label": "Foodcourt",
+      "URL": "https://wiki.why2025.org/Team:Foodcourt",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -120,6 +132,7 @@
     {
       "key": "Heralds",
       "label": "Heralds",
+      "URL": "https://wiki.why2025.org/Team:Heralds",
       "cluster": "Conference",
       "x": 4,
       "y": 4,
@@ -129,6 +142,7 @@
     {
       "key": "Huisstijl",
       "label": "Huisstijl",
+      "URL": "https://wiki.why2025.org/Team:Huisstijl",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -138,6 +152,7 @@
     {
       "key": "Info",
       "label": "Info",
+      "URL": "https://wiki.why2025.org/Team:Info",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -147,6 +162,7 @@
     {
       "key": "Moebelhaus",
       "label": "Moebelhaus",
+      "URL": "https://wiki.why2025.org/Team:Moebelhaus",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -156,6 +172,7 @@
     {
       "key": "Merch",
       "label": "Merch",
+      "URL": "https://wiki.why2025.org/Team:Merch",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -165,6 +182,7 @@
     {
       "key": "Music",
       "label": "Music",
+      "URL": "https://wiki.why2025.org/Team:Music",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -174,6 +192,7 @@
     {
       "key": "NOC (Network)",
       "label": "NOC (Network)",
+      "URL": "https://wiki.why2025.org/Team:NOC",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -183,6 +202,7 @@
     {
       "key": "NUTS (Power, sanitation)",
       "label": "NUTS (Power, sanitation)",
+      "URL": "https://wiki.why2025.org/Team:NUTS",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -192,6 +212,7 @@
     {
       "key": "Off-site transportation",
       "label": "Off-site transportation",
+      "URL": "https://wiki.why2025.org/Team:Off-site_transportation",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -201,6 +222,7 @@
     {
       "key": "On-site transportation",
       "label": "On-site transportation",
+      "URL": "https://wiki.why2025.org/Team:On-site_transportation",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -210,6 +232,7 @@
     {
       "key": "POC (Phone)",
       "label": "POC (Phone)",
+      "URL": "https://wiki.why2025.org/Team:POC",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -219,6 +242,7 @@
     {
       "key": "Parking",
       "label": "Parking",
+      "URL": "https://wiki.why2025.org/Team:Parking",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -228,6 +252,7 @@
     {
       "key": "PartyArea",
       "label": "PartyArea",
+      "URL": "https://wiki.why2025.org/Team:PartyArea",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -237,6 +262,7 @@
     {
       "key": "Permits",
       "label": "Permits",
+      "URL": "https://wiki.why2025.org/Team:Permits",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -246,6 +272,7 @@
     {
       "key": "Press",
       "label": "Press",
+      "URL": "https://wiki.why2025.org/Team:Press",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -255,6 +282,7 @@
     {
       "key": "Productiehuis (Audio/Video)",
       "label": "Productiehuis (Audio/Video)",
+      "URL": "https://wiki.why2025.org/Team:Productiehuis",
       "cluster": "Conference",
       "x": 4,
       "y": 4,
@@ -264,6 +292,7 @@
     {
       "key": "Projectleiding",
       "label": "Projectleiding",
+      "URL": "https://wiki.why2025.org/Team:Projectleiding",
       "cluster": "Event basics",
       "x": 5000,
       "y": 5000,
@@ -273,6 +302,7 @@
     {
       "key": "ROC (Radio)",
       "label": "ROC (Radio)",
+      "URL": "https://wiki.why2025.org/Team:ROC",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -282,6 +312,7 @@
     {
       "key": "Security",
       "label": "Security",
+      "URL": "https://wiki.why2025.org/Team:Security",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -291,6 +322,7 @@
     {
       "key": "Shuttle",
       "label": "Shuttle",
+      "URL": "https://wiki.why2025.org/Team:Shuttle",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -300,6 +332,7 @@
     {
       "key": "Speaker Desk",
       "label": "Speaker Desk",
+      "URL": "https://wiki.why2025.org/Team:Speaker_Desk",
       "cluster": "Conference",
       "x": 4,
       "y": 4,
@@ -309,6 +342,7 @@
     {
       "key": "Sponsors",
       "label": "Sponsors",
+      "URL": "https://wiki.why2025.org/Team:Sponsors",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -318,6 +352,7 @@
     {
       "key": "Sysadmin",
       "label": "Sysadmin",
+      "URL": "https://wiki.why2025.org/Team:Sysadmin",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -327,6 +362,7 @@
     {
       "key": "Terrain",
       "label": "Terrain",
+      "URL": "https://wiki.why2025.org/Team:Terrain",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -336,6 +372,7 @@
     {
       "key": "Ticket & Entrance",
       "label": "Ticket & Entrance",
+      "URL": "https://wiki.why2025.org/Team:Ticket_%26_Entrance",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
@@ -345,6 +382,7 @@
     {
       "key": "Villages",
       "label": "Villages",
+      "URL": "https://wiki.why2025.org/Team:Villages",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -354,6 +392,7 @@
     {
       "key": "Volunteers",
       "label": "Volunteers",
+      "URL": "https://wiki.why2025.org/Team:Volunteers",
       "cluster": "For visitors",
       "x": 0,
       "y": 10000,
@@ -363,6 +402,7 @@
     {
       "key": "Warehouse",
       "label": "Warehouse",
+      "URL": "https://wiki.why2025.org/Team:Warehouse",
       "cluster": "Internal support",
       "x": 10000,
       "y": 10000,
@@ -372,6 +412,7 @@
     {
       "key": "Waste",
       "label": "Waste",
+      "URL": "https://wiki.why2025.org/Team:Waste",
       "cluster": "Event basics",
       "x": 10000,
       "y": 0,
